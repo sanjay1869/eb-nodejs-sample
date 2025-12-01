@@ -1,7 +1,7 @@
 {
   "name": "eb-nodejs-sample",
   "version": "1.0.0",
-  "description": "Simple Node.js app for Elastic Beanstalk lab",
+  "description": "Simple Node.js app for Elastic Beanstalk Lab",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
